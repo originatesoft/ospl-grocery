@@ -4,7 +4,7 @@ grocery ecommerce platform built by a Ready-made grocery and FMCG ecommerce soft
 ![Image](https://github.com/user-attachments/assets/1bf8583f-035b-4032-93fd-1faf6082301c)
 
 ## What Is OSPL Grocery
-OSPL Grocery is a complete ecommerce software solution developed by **Originate Soft Pvt Ltd**, a custom software and web development company based in Kolkata, India.
+OSPL Grocery is a complete **[ecommerce software solution for building grocery platform](https://originatesoft.com/ecommerce-software-solution/grocery-fmcg-software/)** developed by **Originate Soft Pvt Ltd**, a custom software and web development company based in Kolkata, India.
 It is built specifically for the operational demands of grocery and FMCG retail — weighted items, real-time stock changes, delivery slot coordination, and short shelf-life inventory. Standard ecommerce platforms are not designed for these requirements. OSPL Grocery is.
 
 The platform follows a **single-operator, dark-store model**: one business manages its own catalog, pricing, delivery zones, and fulfillment from a single back end. This is not a multi-vendor marketplace. It is your own storefront, fully under your control.
